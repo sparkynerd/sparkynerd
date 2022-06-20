@@ -1,3 +1,3 @@
-### LEARNING UNITY
-### CERTIFIED NERD
-### FAVORITE LANGUAGE: C#
+###  🎮 LEARNING UNITY  🎮
+### 🤓  CERTIFIED NERD 🤓 
+### 💻 FAVORITE LANGUAGE: C# 💻
