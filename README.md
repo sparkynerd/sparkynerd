@@ -1,3 +1,2 @@
 ###  🎮 LEARNING UNITY  🎮
-### 🤓  CERTIFIED NERD 🤓 
-### 💻 FAVORITE LANGUAGE: C# 💻
+
