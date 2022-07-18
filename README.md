@@ -1,4 +1,3 @@
-###  🎮 LEARNING UNITY  🎮
-### LEARNING C/C++
-### MASTERING PYTHON
+Hi people
+Welcome to my profile :D
 
